@@ -1,4 +1,4 @@
-package tp4.supermercado;
+package ar.edu.unq.tp4.supermercado;
 
 
 import ar.edu.unq.tp4.supermercado.Producto;

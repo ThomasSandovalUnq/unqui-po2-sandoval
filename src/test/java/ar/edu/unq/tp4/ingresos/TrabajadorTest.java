@@ -1,4 +1,4 @@
-package tp4.ingresos;
+package ar.edu.unq.tp4.ingresos;
 
 import ar.edu.unq.tp4.ingreso.Ingreso;
 import ar.edu.unq.tp4.ingreso.IngresoPorHorasExtras;
