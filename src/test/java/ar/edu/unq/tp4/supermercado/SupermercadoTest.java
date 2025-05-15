@@ -1,8 +1,5 @@
 package ar.edu.unq.tp4.supermercado;
 
-
-import ar.edu.unq.tp4.supermercado.Producto;
-import ar.edu.unq.tp4.supermercado.Supermercado;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
