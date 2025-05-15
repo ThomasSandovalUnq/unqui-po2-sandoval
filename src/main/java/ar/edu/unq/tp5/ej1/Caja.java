@@ -7,8 +7,8 @@ public class Caja {
         montoTotal = 0;
     }
 
-    public void registrarProducto (Facturable facturable) {
-        montoTotal += facturable.getMontoACobrar();
+    public void registrarProducto (Facturable f) {
+        montoTotal += f.getMontoACobrar();
     }
 
     public double getMontoTotal() {

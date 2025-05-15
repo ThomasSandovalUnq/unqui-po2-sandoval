@@ -18,6 +18,6 @@ public class Servicio implements Facturable {
     }
 
     public double getMontoACobrar() {
-        return costoFijo * unidadesConsumidas;
+        return this.getCostoFijo() * this.getUnidadesConsumidas();
     }
 }
