@@ -11,7 +11,7 @@ public class Impuesto implements Facturable {
 
     public double getMontoACobrar() {
         // Before returning the amount, notify the agency
-        agencia.registrarPago(new Factura(montoImpuesto, "Impuesto"));
+        agencia.registrarPago(new Factura(montoImpuesto));
         return montoImpuesto;
     }
 }
